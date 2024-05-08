@@ -1,0 +1,130 @@
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\ApplicationInsights.config
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\csc.exe
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\vbc.exe
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Tests.dll.config
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Tests.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Tests.pdb
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Razor.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Owin.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\EntityFramework.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.pdb
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Razor.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Optimization.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\EntityFramework.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\obj\Debug\Sample-Architecutre.ZTests.csprojResolveAssemblyReference.cache
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\obj\Debug\Sample-Architecutre.Tests.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\obj\Debug\Sample-Architecutre.Tests.pdb
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\WebActivatorEx.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Service.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Core.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.Web.Common.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Service.pdb
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Core.pdb
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.Web.Common.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\ApplicationInsights.config
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\csc.exe
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\vbc.exe
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Tests.dll.config
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Tests.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Tests.pdb
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Razor.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\WebActivatorEx.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Owin.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\EntityFramework.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Service.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Core.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.Web.Common.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.pdb
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Razor.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\System.Web.Optimization.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\EntityFramework.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Service.pdb
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Sample-Architecutre.Core.pdb
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.Web.Common.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Ninject.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\obj\Debug\Sample-Architecutre.ZTests.csprojResolveAssemblyReference.cache
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\obj\Debug\Sample-Architecutre.Tests.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Tests\obj\Debug\Sample-Architecutre.Tests.pdb

@@ -1,0 +1,20 @@
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\Sample-Architecutre.Core.dll.config
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\Sample-Architecutre.Core.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\Sample-Architecutre.Core.pdb
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\obj\Debug\Sample-Architecutre.Core.csprojResolveAssemblyReference.cache
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\obj\Debug\Sample-Architecutre.Core.dll
+F:\Architecture\Sample Architecture\Sample-Architecutre\Sample-Architecutre.Core\obj\Debug\Sample-Architecutre.Core.pdb
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\Sample-Architecutre.Core.dll.config
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\Sample-Architecutre.Core.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\Sample-Architecutre.Core.pdb
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\obj\Debug\Sample-Architecutre.Core.csprojResolveAssemblyReference.cache
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\obj\Debug\Sample-Architecutre.Core.dll
+F:\Architecture\Sample Architecture - New\Sample-Architecutre\Sample-Architecutre.Core\obj\Debug\Sample-Architecutre.Core.pdb

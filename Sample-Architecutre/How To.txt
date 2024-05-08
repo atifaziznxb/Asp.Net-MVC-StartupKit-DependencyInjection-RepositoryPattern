@@ -1,0 +1,13 @@
+1. Created MVC project
+2. Added two class library projects Core and Service.
+3. Added EF Nuget in Core
+4. Added Sample-Architecture-Context class which extends DbContext class, given connection string name in base Constructor
+5. Added connection string in web.config
+	Integrated Security : When false, User ID and Password are specified in the connection. When true, the current Windows account credentials are used for authentication.Recognized values are 	true, false, yes, no, and sspi (strongly recommended), which is equivalent to true.
+6. Fluent api configuration is applied as EF builds the model from your domain classes. OnModelCreating method is overrided for this
+	Code-First gives precedence to Fluent API > data annotations > default conventions.
+7. Developed generic repository
+8. NInject
+	added ninject.MVC5 from Nuget
+	Register types in Register Service method of NInjectwebCommon.cs
+9. Exception on first time DbCreation "Context cann't be used while model is bieng created", issue resolved by add "MultipleActiveResultSets=true" in connection string
