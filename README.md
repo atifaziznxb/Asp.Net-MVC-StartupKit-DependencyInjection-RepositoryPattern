@@ -2,6 +2,6 @@
 
 This project is startup poject for Asp.net MVC includes best practices as for as Architecture is concerned. This includes following main things:
 
-# Repository Pattern (Generic Repository)
-# NInject dependency injection
-# Layered Architecture
+1. Repository Pattern (Generic Repository)
+2. NInject dependency injection
+3. Layered Architecture
